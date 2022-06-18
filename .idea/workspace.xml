@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84355768-99ba-4ddb-a6e0-51ee8df0b7ef" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ghostwriter/Ghostwriter.kt" afterDir="false" />
+    <list default="true" id="84355768-99ba-4ddb-a6e0-51ee8df0b7ef" name="Changes" comment="updated theme color - ek">
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/logo/logo_two.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/resume_builder.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/scss/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/scss/_color.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/scss/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/scss/_common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/assets/scss/_services_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/assets/scss/_services_section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/interview_prep.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/assets/img/logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MiliPrepApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/MiliPrepApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ghostwriter/Ghostwriter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ghostwriter/Ghostwriter.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +68,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/ekrus/IdeaProjects/miliprep/src/main/kotlin/api/jobs"
+    "last_opened_file_path": "C:/Users/ekrus/IdeaProjects/miliprep/client/public/assets/img/logo"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ekrus\IdeaProjects\miliprep\client\public\assets\img\logo" />
       <recent name="C:\Users\ekrus\IdeaProjects\miliprep\src\main\kotlin\api\jobs" />
       <recent name="C:\Users\ekrus\IdeaProjects\miliprep\src\main\kotlin\api\prep" />
       <recent name="C:\Users\ekrus\IdeaProjects\miliprep\src\main\kotlin\api\resumes" />
@@ -82,9 +82,6 @@
   </component>
   <component name="RunManager">
     <configuration name="MiliPrepApplicationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <envs>
-        <env name="OPEN_AI_TOKEN" value="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" />
-      </envs>
       <option name="MAIN_CLASS_NAME" value="com.ai.miliprep.MiliPrepApplicationKt" />
       <module name="miliprep.main" />
       <shortenClasspath name="NONE" />
@@ -125,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655518233626</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated theme color - ek">
+      <created>1655573792285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655573792285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="updated theme color - ek" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated theme color - ek" />
   </component>
 </project>

@@ -6,6 +6,7 @@ import com.theokanning.openai.completion.CompletionRequest
 import com.theokanning.openai.engine.Engine
 
 class Ghostwriter {
+    //config - OPEN_AI_TOKEN=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
     private val token: String = System.getenv("OPEN_AI_TOKEN")
     val service: OpenAiService = OpenAiService(token)
 

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84355768-99ba-4ddb-a6e0-51ee8df0b7ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/css/normalize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/js/jquery.nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shAutoloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushAS3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushAppleScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushBash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushCSharp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushColdFusion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushCpp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushCss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushDelphi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushDiff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushErlang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushGroovy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushJScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushJava.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushJavaFX.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushPerl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushPhp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushPlain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushPowerShell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushPython.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushRuby.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushSass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushScala.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushSql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushVb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shBrushXml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shCore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/scripts/shLegacy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shCore.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shCoreDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shCoreDjango.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shCoreEclipse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shCoreEmacs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shCoreFadeToGrey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shCoreMDUltra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shCoreMidnight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shCoreRDark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shThemeDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shThemeDjango.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shThemeEclipse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shThemeEmacs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shThemeFadeToGrey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shThemeMDUltra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shThemeMidnight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/Doc/syntax-highlighter/styles/shThemeRDark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/price_rangs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/slicknav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/css/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/about/about_lft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/about/about_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/about/pet_care.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/adapt_icon/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/adapt_icon/1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/adapt_icon/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/adapt_icon/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/banner/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/banner/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/blog/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/blog/blog_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/blog/home-blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/blog/home-blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/blog/learn_about_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/blog/single_blog_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/blog/single_blog_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/blog/single_blog_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/blog/single_blog_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/blog/single_blog_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/blog/slide_thumb_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/comment/comment_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/comment/comment_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/comment/comment_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/disabled-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/disabled-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/g1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/g2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/g3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/g4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/g5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/g6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/g7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/g8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/primary-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/primary-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/success-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/elements/success-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/gallery/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/gallery/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/gallery/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/gallery/cv_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/gallery/how-applybg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/hero/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/hero/h1_hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/icon/form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/icon/job-list1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/icon/job-list2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/icon/job-list3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/icon/job-list4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/logo/form-iocn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/logo/loder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/logo/logo2_footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/logo/select-items-icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/logo/testimonial.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/offers/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/offers/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/offers/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/our_blog/blog-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/post/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/post/post_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/post/post_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/post/post_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/post/post_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/post/post_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/post/post_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/post/post_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/post/post_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/post/post_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/post/post_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/post/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/prising/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/prising/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/prising/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/prising/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/prising/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/prising/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/prising/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/prising/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/prising/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/prising/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/service/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/service/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/service/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/service/footer_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/service/service_icon_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/service/service_icon_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/service/service_icon_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/service/service_icon_bg_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/service/support-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/team/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/team/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/team/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/testmonial/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/img/testmonial/testimonial-founder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/animated.headline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/jquery.nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/jquery.paroller.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/jquery.scrollUp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/jquery.slicknav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/mail-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/one-page-nav-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/price_rangs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/vendor/modernizr-3.5.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_apply-proces.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_blog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_blog_page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_bradcam.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_common.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_cv-online.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_elements.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_extend.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_featured-Jobs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_h1-hero.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_headerMenu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_job_details.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_job_listing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_overlay.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_recent.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_services.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_services_section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_support-company.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_testimonial.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/assets/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/contact_process.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/job_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/job_listing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/single-blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MiliPrepApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/api/jobs/model/Job.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/api/resumes/model/Resume.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/api/user/model/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AjIMKHgRdoVycCHD4tSREXvrvT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/ekrus/IdeaProjects/miliprep/src/main/kotlin/api/jobs"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ekrus\IdeaProjects\miliprep\src\main\kotlin\api\jobs" />
+      <recent name="C:\Users\ekrus\IdeaProjects\miliprep\src\main\kotlin\api\prep" />
+      <recent name="C:\Users\ekrus\IdeaProjects\miliprep\src\main\kotlin\api\resumes" />
+      <recent name="C:\Users\ekrus\IdeaProjects\miliprep\client\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MiliPrepApplicationKt (1)">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="miliprep.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiliPrepApplicationKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ai.miliprep.MiliPrepApplicationKt" />
+      <module name="miliprep.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiliPrepApplicationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiliPrepApplicationKt" />
+      <module name="miliprep.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MiliPrepApplicationKt (1)" />
+        <item itemvalue="Kotlin.MiliPrepApplicationKt" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84355768-99ba-4ddb-a6e0-51ee8df0b7ef" name="Changes" comment="" />
+      <created>1655516520719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655516520719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

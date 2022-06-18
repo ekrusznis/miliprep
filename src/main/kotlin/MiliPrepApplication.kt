@@ -9,5 +9,4 @@ class MiliPrepApplication
     fun main(args: Array<String>) {
         runApplication<MiliPrepApplication>(*args)
         println("*** STARTED ***")
-
     }
